@@ -105,7 +105,7 @@ java -cp out Main
 | 03 · Muhafızlar | `Muhafiz.java` | `static` alan ve metot | Ortak sayaç doğru çalışır |
 | 04 · Kitaplık | `NotCozucu.java` | Metot çağrısı, parametreler | Şifreli not çözümlenir |
 | 05 · Gizli duvar | `Kurallar.java` | `final` sabit | Duvar mekanizması etkinleşir |
-| 06 · Son kasa | Oyun ekranı | İpuçlarını birleştirme | Kasa açılır, “YOKLAMAYA İMZA AT!” mesajı görünür |
+| 06 · Son kasa | Oyun ekranı | İpuçlarını birleştirme | Kasa açılır, “*****************!” mesajı görünür |
 
 ### 🧠 Nasıl ilerlemelisin?
 
